@@ -1,0 +1,15 @@
+
+File : style.css
+
+.alert-info, .alert-danger, .alert-cookies
+.nomargin
+.nopadding
+.line-height-25
+.padding-l-10
+.cursor-pointer
+
+
+File : form.css
+
+*
+
